@@ -76,13 +76,13 @@ The goal would not be to diagnose causation automatically, but to provide an evi
 
 ### 📓 Project Analysis Notebook
 
-**`Byte_Crew_Project_Analysis_WiD_Datathon_2026.ipynb`**
+**[Byte_Crew_Project_Analysis_WiD_Datathon_2026.ipynb](https://github.com/lindaxeva/from-farm-to-400g/blob/803349cfc54cddebac924b3af2674bff65ec6afb/Byte_Crew_Project_Analysis_WiD_Datathon_2026.ipynb)**
 
 The notebook is the main project playbook and contains our data preparation, methodology, analysis, visualizations, findings, limitations, and recommendations.
 
 ### 📊 Final Slide Deck
 
-**`Byte_Crew_Slide_Deck_WiD_Datathon_2026.pdf`**
+**[Byte_Crew_Slide_Deck_WiD_Datathon_2026.pdf](https://github.com/lindaxeva/from-farm-to-400g/blob/803349cfc54cddebac924b3af2674bff65ec6afb/Byte_Crew_Slide_Deck_WiD_Datathon_2026.pdf)**
 
 The final presentation tells the project story in a concise, visual format.
 
