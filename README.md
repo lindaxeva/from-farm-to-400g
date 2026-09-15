@@ -1,4 +1,4 @@
-# FROM FARM TO 400G
+# FROM FARM TO 400g
 
 **Women in Data - Datathon 2026 | Track: EAT x GROW | Byte Crew**
 
