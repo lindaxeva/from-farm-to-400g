@@ -23,7 +23,7 @@ Using global FAOSTAT data, we examined fruit-and-vegetable availability across c
 
 ---
 
-## Why 400 g?
+## Why 400g?
 
 The **World Health Organization recommends at least 400 g of fruits and vegetables per day** for people over 10 years old as part of a healthy diet. Low fruit-and-vegetable intake is associated with greater risk of noncommunicable diseases.
 
