@@ -4,153 +4,128 @@
 
 **Women in Data - Datathon 2026 | Track: EAT x GROW | Byte Crew**
 
-FROM FARM TO 400G is a global food-system analysis exploring whether national fruit-and-vegetable availability is sufficient to meet the **400 g/person/day reference level**, how countries are changing over time, and what food-system patterns may sit behind availability gaps.
+**FROM FARM TO 400G** explores a simple but important question:
+
+> **Can national food systems make enough fruits and vegetables available to support a healthy plate?**
+
+Using global FAOSTAT data, we examined fruit-and-vegetable availability across countries, how that availability has changed over time, and the food-system signals that may help distinguish different supply situations.
 
 ---
 
-## The Question
+## Project at a Glance
 
-**Can our food systems supply enough fruits and vegetables for a healthy plate?**
+**Reference point:** 400 g of fruits and vegetables per person per day
+**Period:** 2014–2023
+**Data source:** FAOSTAT
+**Level of analysis:** Global, regional, and country-level
+**Primary lens:** Healthy diets and food availability
+**Supporting lens:** Production, trade, food losses, and food-system resilience
 
-We explored:
-
-* Where countries are above or below 400 g/day
-* How availability is changing over time
-* What food-system patterns distinguish countries below the benchmark
+> Food availability is not the same as individual consumption.
 
 ---
 
 ## Why 400 g?
 
-The **World Health Organization recommends at least 400 g of fruits and vegetables per day** for people over 10 years old as part of a healthy diet. Low fruit-and-vegetable intake is associated with increased health risks and noncommunicable diseases.
+The **World Health Organization recommends at least 400 g of fruits and vegetables per day** for people over 10 years old as part of a healthy diet.
 
-**Health reference:** [WHO Healthy Diet Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
+Low fruit-and-vegetable intake is associated with greater risk of noncommunicable diseases.
 
-> Our analysis measures national food **availability**, not individual consumption.
-
----
-
-## Data & Approach
-
-Using **FAOSTAT data from 2014–2023**, we examined:
-
-* Fruit and vegetable availability
-* Production
-* Imports
-* Food losses
-* Population
-* Country and regional trends
-
-Food supply quantity was converted from **kg/capita/year to g/person/day** and compared with the 400 g reference.
-
-Our full methodology, analytical decisions, findings, visualizations, and recommendations are documented in the **Project Analysis Notebook**.
+**Reference:** [WHO Healthy Diet Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
 
 ---
 
-## Stakeholders
+## What We Wanted to Understand
 
-The analysis may support:
+Rather than looking only at whether a country is above or below 400 g, we asked:
 
-* Public health and nutrition agencies
-* Agricultural and food-system policymakers
-* NGOs and food-security organizations
-* International development organizations
-* Researchers and analysts
-* Food-system and supply-chain planners
+* **Where are the availability gaps?**
+* **Are countries moving toward or away from the reference level?**
+* **What food-system patterns appear alongside lower availability?**
 
----
-
-## Tools Used
-
-* Python
-* Pandas
-* Plotly
-* Databricks
-* Excel
-* GitHub
-* Google Slides
-
----
-
-## Key Outputs
-
-The project includes:
-
-* Global availability-gap analysis
-* World maps of countries above and below 400 g/day
-* Country and regional trends
-* Identification of countries moving toward or away from 400 g
-* Exploration of production, imports, and food losses
-* Country-level food-system patterns
-* Scenario-based recommendations
-
----
-
-## From Analysis to Framework
-
-The datathon project is exploratory, but its structure could be developed into a reusable **country-level food-system screening framework**.
-
-### Locate → Track → Explore → Inform
-
-Such a framework could help identify availability gaps, monitor progress, explore relevant food-system signals, and guide deeper country-specific investigation.
-
-It is designed as a **screening and decision-support approach**, not a causal model.
+This allowed us to move from a simple benchmark comparison toward a broader food-system story.
 
 ---
 
 ## Why It Matters
 
-Fruit-and-vegetable availability gaps may reflect more than nutrition challenges. They may also relate to:
+Fruit-and-vegetable availability sits at the intersection of **nutrition, agriculture, trade, food loss, resilience, and sustainability**.
 
-* Agricultural production
-* Trade access
-* Food losses
-* Supply-chain resilience
-* Resource efficiency
+For stakeholders working in public health, agriculture, food security, development, or research, identifying a gap is only the beginning. The next question is:
 
-Food systems also affect our planet through their use of **land, water, energy, and other natural resources**. Strengthening nutritious food supply while reducing avoidable losses can support both **healthier diets and more sustainable food systems**.
+> **What type of food-system situation might be sitting behind that gap?**
+
+Improving nutritious food availability also matters for the planet. Food systems depend on land, water, energy, labour, and supply infrastructure, making efficient and resilient food supply an important part of sustainable development.
 
 ---
 
-## Repository Contents
+## From Datathon Analysis to Potential Framework
 
-### Project Analysis Notebook
+Our project began as an exploratory datathon analysis, but the structure could be developed further into a reusable **country-level food-system screening framework**.
+
+### Locate → Track → Explore → Inform
+
+A future version could help users:
+
+* locate availability gaps,
+* track changes over time,
+* explore relevant food-system signals,
+* and identify areas that warrant deeper country-specific investigation.
+
+The goal would not be to diagnose causation automatically, but to provide an evidence-based **screening and decision-support starting point**.
+
+---
+
+## Project Files
+
+### 📓 Project Analysis Notebook
 
 **`Byte_Crew_Project_Analysis_WiD_Datathon_2026.ipynb`**
 
-This notebook serves as our **project playbook**, bringing together the methodology, data preparation, analytical workflow, visualizations, findings, limitations, and recommendations.
+The notebook is the main project playbook and contains our data preparation, methodology, analysis, visualizations, findings, limitations, and recommendations.
 
-### Final Slide Deck
+### 📊 Final Slide Deck
 
 **`Byte_Crew_Slide_Deck_WiD_Datathon_2026.pdf`**
 
-PDF version of our final datathon presentation for easy viewing on GitHub.
+The final presentation tells the project story in a concise, visual format.
+
+---
+
+## Tools Used
+
+**Python · Pandas · Plotly · Databricks · Excel · GitHub · Google Slides**
+
+---
+
+## Who Could Use This Work?
+
+Potential stakeholders include:
+
+**Public health agencies · Nutrition organizations · Agricultural policymakers · Food-security organizations · NGOs · International development organizations · Researchers · Food-system analysts and planners**
 
 ---
 
 ## Team: Byte Crew
 
-* Linda Eva Seuna Kamaha
+* Linda Eva 
 * Dawn
 * Imane
 * Laxmi
 * Monica
 
-The project was developed collaboratively through data preparation, quality assurance, analysis, visualization, interpretation, storytelling, and presentation.
+Built collaboratively across data preparation, quality assurance, analysis, visualization, interpretation, storytelling, and presentation.
 
 ---
 
-## Limitations
+## Interpretation Note
 
-* Availability does not equal individual consumption.
-* Country averages may hide within-country inequalities.
-* Correlation does not imply causation.
-* Findings require country-specific context before informing interventions.
+This project is exploratory.
+
+**Availability does not equal consumption. Correlation does not imply causation. Country-level averages can hide inequalities within countries, and findings should be interpreted alongside local context.**
 
 ---
 
-## Project Vision
+### FROM FARM TO 400G
 
-**FROM FARM TO 400G**
-
-*Where the gap is, how countries are moving, and what food-system signals could help support healthier plates and more resilient food systems.*
+**Where the gap is. How countries are moving. What food-system signals may help us understand what comes next.**
