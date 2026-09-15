@@ -12,12 +12,12 @@ Using global FAOSTAT data, we examined fruit-and-vegetable availability across c
 
 ## Project at a Glance
 
-**Reference point:** 400 g of fruits and vegetables per person per day
-**Period:** 2014–2023
-**Data source:** FAOSTAT
-**Level of analysis:** Global, regional, and country-level
-**Primary lens:** Healthy diets and food availability
-**Supporting lens:** Production, trade, food losses, and food-system resilience
+- **Reference point:** 400 g of fruits and vegetables per person per day
+- **Period:** 2014–2023
+- **Data source:** FAOSTAT
+- **Level of analysis:** Global, regional, and country-level
+- **Primary lens:** Healthy diets and food availability
+- **Supporting lens:** Production, trade, food losses, and food-system resilience
 
 > Food availability is not the same as individual consumption.
 
@@ -25,9 +25,7 @@ Using global FAOSTAT data, we examined fruit-and-vegetable availability across c
 
 ## Why 400 g?
 
-The **World Health Organization recommends at least 400 g of fruits and vegetables per day** for people over 10 years old as part of a healthy diet.
-
-Low fruit-and-vegetable intake is associated with greater risk of noncommunicable diseases.
+The **World Health Organization recommends at least 400 g of fruits and vegetables per day** for people over 10 years old as part of a healthy diet. Low fruit-and-vegetable intake is associated with greater risk of noncommunicable diseases.
 
 **Reference:** [WHO Healthy Diet Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
 
