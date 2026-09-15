@@ -1,12 +1,10 @@
 # FROM FARM TO 400G
 
-### Can our food systems supply a healthy plate?
-
 **Women in Data - Datathon 2026 | Track: EAT x GROW | Byte Crew**
 
-**FROM FARM TO 400G** explores a simple but important question:
+Our project explores a simple but important question:
 
-> **Can national food systems make enough fruits and vegetables available to support a healthy plate?**
+> ### Can our food systems supply a healthy plate?
 
 Using global FAOSTAT data, we examined fruit-and-vegetable availability across countries, how that availability has changed over time, and the food-system signals that may help distinguish different supply situations.
 
